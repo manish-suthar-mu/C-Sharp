@@ -1,0 +1,15 @@
+C:\Users\Manish\Desktop\MU\c#\Program_32\Program_32\bin\Debug\net10.0\Program_32.exe
+C:\Users\Manish\Desktop\MU\c#\Program_32\Program_32\bin\Debug\net10.0\Program_32.deps.json
+C:\Users\Manish\Desktop\MU\c#\Program_32\Program_32\bin\Debug\net10.0\Program_32.runtimeconfig.json
+C:\Users\Manish\Desktop\MU\c#\Program_32\Program_32\bin\Debug\net10.0\Program_32.dll
+C:\Users\Manish\Desktop\MU\c#\Program_32\Program_32\bin\Debug\net10.0\Program_32.pdb
+C:\Users\Manish\Desktop\MU\c#\Program_32\Program_32\obj\Debug\net10.0\Program_32.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Manish\Desktop\MU\c#\Program_32\Program_32\obj\Debug\net10.0\Program_32.AssemblyInfoInputs.cache
+C:\Users\Manish\Desktop\MU\c#\Program_32\Program_32\obj\Debug\net10.0\Program_32.AssemblyInfo.cs
+C:\Users\Manish\Desktop\MU\c#\Program_32\Program_32\obj\Debug\net10.0\Program_32.csproj.CoreCompileInputs.cache
+C:\Users\Manish\Desktop\MU\c#\Program_32\Program_32\obj\Debug\net10.0\Program_32.sourcelink.json
+C:\Users\Manish\Desktop\MU\c#\Program_32\Program_32\obj\Debug\net10.0\Program_32.dll
+C:\Users\Manish\Desktop\MU\c#\Program_32\Program_32\obj\Debug\net10.0\refint\Program_32.dll
+C:\Users\Manish\Desktop\MU\c#\Program_32\Program_32\obj\Debug\net10.0\Program_32.pdb
+C:\Users\Manish\Desktop\MU\c#\Program_32\Program_32\obj\Debug\net10.0\Program_32.genruntimeconfig.cache
+C:\Users\Manish\Desktop\MU\c#\Program_32\Program_32\obj\Debug\net10.0\ref\Program_32.dll
