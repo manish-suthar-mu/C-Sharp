@@ -13,11 +13,11 @@ class Error
         }
         catch (Exception e)
         {
-            Console.WriteLine("Error : ZeroDivisionError: division by zero");
+            Console.WriteLine("Error : ZeroDivisionError: division by zero....");
         }
         finally
         {
-            Console.WriteLine("Error : The use of try, catch and finally in C#");
+            Console.WriteLine("Error : The use of try, catch and finally in C#....");
         }
     }
 }
